@@ -1,5 +1,5 @@
-# net-lab-1401
-This repository contains the activities performed in my network lab
+# آزمایشگاه شبکه
+بهمن ۱۴۰۱ - در این ریپوزیتوری گزارشکارهای من در دسترس هستند.
 <hr>
 <div dir=rtl>
 برای حمایت از این اثر به این مخزن (ریپوزیتوری) ستاره ⭐ بدهید.
