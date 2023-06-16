@@ -76,6 +76,7 @@
     <td>1</td>
   </tr>
   <table/>
-  
-  
+  <br>
+  می‌بایست شماتیک به صورت زیر باشد:
+  <br><img src='https://github.com/EnAnsari/net-lab-1401/blob/main/final-exam/img.jpg' alt="question" width="640" height="409">  
 </div>
